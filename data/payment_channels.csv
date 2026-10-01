@@ -1,0 +1,6 @@
+channel_id,payment_channel,channel_type
+CH-001,Card,Digital Card
+CH-002,Bank Transfer,Banking
+CH-003,Mobile Money,Mobile
+CH-004,USSD,USSD
+CH-005,Wallet,Digital Wallet
