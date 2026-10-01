@@ -410,42 +410,6 @@ Run the dashboard:
 ```bash
 python3 -m streamlit run python/dashboard.py
 ```
-
----
-
-## Portfolio Context
-
-This project demonstrates an end-to-end approach to operational analytics rather than focusing only on visualisation.
-
-It combines:
-
-**Data Engineering**
-
-* Data generation
-* Cleaning
-* Validation
-* Relational database creation
-
-**Data Analysis**
-
-* SQL queries
-* KPI development
-* Reconciliation analysis
-* Exception investigation
-
-**Operations**
-
-* Transaction monitoring
-* Failure analysis
-* Processing performance
-* Reconciliation management
-
-**Application Development**
-
-* Interactive Streamlit dashboard
-* Plotly visualisation
-* Filtering and operational drill-down
-
 ---
 
 ## Future Enhancements
@@ -463,14 +427,4 @@ Potential extensions include:
 * Cloud database deployment
 * Production-grade data pipelines
 * Anomaly detection using machine learning
-
----
-
-## Author
-
-**Miracle Okoh**
-
-Technical Operations • Systems Automation • Data & AI
-
-Built as part of a portfolio focused on operational technology, fintech systems, analytics, and intelligent business operations.
 
